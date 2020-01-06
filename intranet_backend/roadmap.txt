@@ -1,0 +1,13 @@
+High priority:
+
+
+Long term:
+    - Product Data:
+        - Find SKU with part number
+        - Import many skus (csv, tsv, paste values, etc)
+    - Vendor Info:
+        - View / edit vendors
+        - Add vendors
+        - Remove Vendors
+
+
