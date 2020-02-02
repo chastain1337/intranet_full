@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const Chapter = require("../models/models").Chapter;
 
 //Connect to mongoDB
-mongoose.connect('mongodb://localhost:27017/nahvac');
+mongoose.connect('mongodb://localhost:27017/intranet');
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'Connection error:'));
 

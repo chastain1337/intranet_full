@@ -5,7 +5,7 @@ var Vendor = require("../models/models").Vendor;
 var Product = require("../models/models").Product;
 
 //Connect to mongoDB
-mongoose.connect("mongodb://localhost:27017/nahvac");
+mongoose.connect("mongodb://localhost:27017/intranet");
 var db = mongoose.connection;
 db.on("error", console.error.bind(console, "Connection error:"));
 
