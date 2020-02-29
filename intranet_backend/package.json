@@ -42,6 +42,7 @@
     "chalk": "^2.4.2",
     "chokidar": "^3.1.1",
     "ci-info": "^2.0.0",
+    "cjs": "0.0.11",
     "class-utils": "^0.3.6",
     "cli-boxes": "^2.2.0",
     "collection-visit": "^1.0.0",
