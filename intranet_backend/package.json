@@ -144,7 +144,7 @@
     "mime-db": "^1.41.0",
     "mime-types": "^2.1.24",
     "minimatch": "^3.0.4",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "mixin-deep": "^2.0.1",
     "moment": "^2.24.0",
     "mongodb": "^3.3.2",
