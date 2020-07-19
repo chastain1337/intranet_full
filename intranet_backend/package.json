@@ -130,7 +130,7 @@
     "kareem": "^2.3.1",
     "kind-of": "^6.0.2",
     "latest-version": "^5.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lowercase-keys": "^2.0.0",
     "lru-cache": "^5.1.1",
     "make-dir": "^3.0.0",
