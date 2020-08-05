@@ -77,7 +77,7 @@
     "execa": "^2.0.4",
     "expand-brackets": "^4.0.0",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "extend-shallow": "^3.0.2",
     "extglob": "^3.0.0",
     "fill-range": "^7.0.1",
