@@ -151,7 +151,7 @@
     "mongoose": "^5.9.2",
     "mongoose-legacy-pluralize": "^1.0.2",
     "mpath": "^0.6.0",
-    "mquery": "^3.2.2",
+    "mquery": "^3.2.3",
     "ms": "^2.1.2",
     "mysql": "^2.18.1",
     "nan": "^2.14.0",
